@@ -1,6 +1,6 @@
 Autonomia is an automated environment in which creatures spawn, evade, hunt, reproduce and die. The goal of this project was to work with Python concepts that I had not yet used.
 
-The Python concepts I tried to focus on here are classes, matplotlib and sqlite3.
+The Python concepts I tried to focus on here are classes, matplotlib and sqlite3. I used Turtle to visually represent each creature in real time.
 
 By far the most extensively used concept in this project are classes. I defined creature classes with set attributes such as name, rank, oxygen, carbon, location etc. I defined
 methods that would allow the creature to interact with its environment and other creatures, such as spawn, evade, hunt, reproduce, die. I also created the world environment using 
