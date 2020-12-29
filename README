@@ -9,7 +9,7 @@ classes. The world has a set amount of resources such as carbon, oxygen. The wor
 I used matplotlib to plot the population totals of creatures within the world during every cycle it runs. This is basic, but implementation was successful and provided a visual 
 aid to track total creature population over time.
 
-I used sqlite3 as a database to store creature data. ![database](https://github.com/kickinslowly/autonomia/blob/master/capture_database.PNG?raw=true) Each cycle of the world the sqlite3 database is updated with all creatures in the world. This is basic, but implementation was
+I used sqlite3 as a database to store creature data. Each cycle of the world the sqlite3 database is updated with all creatures in the world. This is basic, but implementation was
 successful and provided an aid in understanding creature characteristics and creature population patterns.
 
 This project is completely automated and only needs to be 'run' and then observed. The point was to create a system that could interact with itself and output world/creature data 
